@@ -1,0 +1,7 @@
+{
+  "name": "AI Agent",
+  "description": "Enterprise-grade AI command center for Smiles To Miles Vacations Private Limited, managing leads from WhatsApp, IndiaMart, and social media.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
